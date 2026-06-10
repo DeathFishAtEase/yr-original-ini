@@ -11,7 +11,7 @@
  - `rulesmd.ini`
  - `soundmd.ini`
 
-[1.001 版本更新内容差异对比页面入口](https://github.com/DeathFishAtEase/yr-original-ini/pull/1)
+[1.001 版本更新内容差异对比页面入口](https://github.com/DeathFishAtEase/yr-original-ini/pull/1/changes)
 
 ---
 [YRStandard-INI](https://gitee.com/PB_LAB/yrstandard-ini)
